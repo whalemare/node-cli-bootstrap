@@ -1,0 +1,23 @@
+{
+  "name": "publish",
+  "version": "1.0.0",
+  "description": "Fastlane helper for publish builds",
+  "main": "src/index.ts",
+  "author": "whalemare",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.4",
+    "nodemon": "^2.0.2",
+    "ora": "^4.0.3"
+  },
+  "devDependencies": {
+    "eslint": "6.7.2",
+    "eslint-config-prettier": "6.7.0",
+    "eslint-plugin-prettier": "3.1.1",
+    "prettier": "^1.19.1",
+    "typescript": "^3.7.5"
+  }
+}
